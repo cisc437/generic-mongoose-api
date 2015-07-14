@@ -16,3 +16,6 @@ A completely generic, single-file, mongo-backed, JSON-in JSON-out, REST API in N
  + **POST /:collection** takes in JSON (Content-Type: application/json) and creates a new document in requested collection
  + **PUT /:collection/:id** merges the matching document with the JSON you pass in
  + **DELETE /:collection/:id** deletes the requested document
+
+----
+Test it out with POSTMAN
