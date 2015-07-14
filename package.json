@@ -1,0 +1,12 @@
+{
+  "name": "generic-api",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node ./generic.js"
+  },
+  "dependencies": {
+    "body-parser": "~1.13.1",
+    "express": "~4.13.0",
+    "mongoose" : "~4.0.7"
+  }
+}
